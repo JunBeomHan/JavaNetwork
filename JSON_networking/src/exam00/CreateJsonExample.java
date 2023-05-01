@@ -11,6 +11,7 @@ import java.nio.charset.Charset;
 public class CreateJsonExample {
 
     public static void main(String[] args) throws IOException {
+
         // JSON 생성
         JSONObject root = new JSONObject();
 
